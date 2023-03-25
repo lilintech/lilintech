@@ -3,7 +3,7 @@
 
 
 * 🔭 I’m currently learning 
-  JavaScript
-*💡 Currently I can work well with
-  Html/Css
+    * JavaScript
+* 💡 Currently I can work well with
+  * Html/Css
 
